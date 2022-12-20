@@ -3,6 +3,7 @@
 // @match				https://outlook.office.com/*
 // @version          1.1
 // @require       jquery3
+// @updateURL     https://raw.githubusercontent.com/justusthane/scripts/main/firemonkey-owa-move-to-folder.js
 // ==/UserScript==
 
 
